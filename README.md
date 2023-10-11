@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I am a machine learning engineer and data scientist with 3 years of experience developing modular machine learning models in python. 
+  I am a machine learning engineer and data scientist with 6+ years of experience with developing modular machine learning models in python. 
   Data analysis is my passion and I don't feel time when working on data.
 <p align='center'>
 
