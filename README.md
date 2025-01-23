@@ -1,13 +1,13 @@
 <h1 align='center'>
-  Hi there 👋 I'm Hadi 👨‍💻
+  Hi there 👋 I'm Hadi 👨‍💻 Gen AI and ML Engineer
 </h1>
 
 <p align='center'>
-  I am a machine learning engineer and data scientist with 6+ years of experience with developing modular machine learning models in python. 
+  I am a machine learning engineer and data scientist with 10+ years of experience with developing modular machine learning models in python. 
   Data analysis is my passion and I don't feel time when working on data.
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/hrohani">
+<a href="https://www.linkedin.com/in/h1rouhani">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
@@ -21,10 +21,8 @@
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-- 🌱 I am working on CI ML and MLOps using data version control  <a href="https://github.com/iterative/dvc"><img src="https://repository-images.githubusercontent.com/83878269/a5c64400-8fdd-11ea-9851-ec57bc168db5" width = "50" height = "25">(DVC)</a>
-
 <p align='center'>
-  📫 How to reach me: <a href='mailto:rouhani@ualberta.ca'>rouhani@ualberta.ca</a>
+  📫 How to reach me: <a href='mailto:h1rouhani@gmail.com'>h1rouhani AT gmail Dot Com</a>
 </p>
 
 Technologies I've been learning and using so far :
