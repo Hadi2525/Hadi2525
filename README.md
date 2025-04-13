@@ -28,7 +28,12 @@
 This page might be old or outdated.
 
 Please follow me on linkedIn for most up-to-date works.
+<p align='center'>
+
 <a href="https://www.linkedin.com/in/h1rouhani">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 
   
