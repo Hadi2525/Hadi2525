@@ -1,9 +1,9 @@
 <!-- Gradient Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=220&section=header&text=Hadi%20Rouhani&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Cloud%20%26%20AI%20Engineer%20%7C%20Tech%20Lead&descSize=20&descAlignY=55&descColor=C9D1D9&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=250&section=header&text=Hadi%20Rouhani&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Cloud%20and%20AI%20Engineer%20-%20Tech%20Lead&descSize=18&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" />
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=10%2B+Years+Shipping+Production+AI+Systems;RAG+%7C+Agents+%7C+MLOps+%7C+Cloud+Architecture;Building+the+future+with+LLMs+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&lines=10%2B+Years+Shipping+Production+AI+Systems;RAG+%E2%80%A2+Agents+%E2%80%A2+MLOps+%E2%80%A2+Cloud+Architecture;Building+the+future+with+LLMs+and+Agentic+AI" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
@@ -259,4 +259,4 @@ open_source: LangChain & Angular contributor
 </p>
 
 <!-- Gradient Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=120&section=footer&animation=fadeIn" width="100%" />
