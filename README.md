@@ -136,25 +136,55 @@ open_source: LangChain & Angular contributor
 
 ## 📊 GitHub Stats
 
+<!-- Row 1: Main Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadi2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadi2525&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Hadi2525&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="Streak Stats" />
 </p>
 
 <!-- If streak-stats.demolab.com is down, use this fallback: -->
 <!-- <img src="https://github-readme-streak-stats-eight.vercel.app?user=Hadi2525&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" /> -->
 
+---
+
+## 📈 Profile Summary Cards
+
+<!-- Row 2: Summary Cards — Commits by Language + Repos by Language -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="32%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="40%" alt="Top Languages Compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hadi2525&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hadi2525&theme=tokyonight" width="32%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadi2525&theme=tokyonight" width="32%" alt="Stats Summary" />
+</p>
+
+<!-- Row 3: Productive Time + Profile Details -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hadi2525&theme=tokyonight&utcOffset=-7" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadi2525&theme=tokyonight" width="49%" alt="Profile Details" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🗂️ Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi2525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="30%" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="38%" alt="Top Languages Compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="28%" alt="Top Languages Pie" />
+</p>
+
+<!-- Optional: WakaTime Card (uncomment if you use WakaTime) -->
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="60%" alt="WakaTime Stats" />
+</p>
+-->
+
+---
+
+## 📉 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi2525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%" alt="Contribution Graph"/>
 </p>
 
 ---
