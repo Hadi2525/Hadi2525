@@ -251,7 +251,7 @@ open_source: LangChain & Angular contributor
   <a href="https://www.linkedin.com/in/h1rouhani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://hadirouhani.com"><img src="https://img.shields.io/badge/hadirouhani.com-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
   <a href="https://www.youtube.com/@FullStackAILab"><img src="https://img.shields.io/badge/Full_Stack_AI_Lab-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-  <a href="mailto:rouhani@ualberta.ca"><img src="https://img.shields.io/badge/rouhani@ualberta.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rouhani@ualberta.ca"><img src="https://img.shields.io/badge/r o u h a n i at u a l b e r t a . c a-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
