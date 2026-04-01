@@ -134,7 +134,7 @@ open_source: LangChain & Angular contributor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadi2525&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadi2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Hadi2525&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="Streak Stats" />
 </p>
 
@@ -155,10 +155,40 @@ open_source: LangChain & Angular contributor
 
 ---
 
+## 🗂️ Language Breakdown
+
+<!-- FIX: replaced broken pie/donut-vertical layouts with stable compact + donut layouts -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="45%" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="45%" alt="Top Languages Compact" />
+</p>
+
+---
+
 ## 📉 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi2525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- FIX: repo pin cards only render for public repos — replace YOUR-REPO-N with your actual public repo slugs -->
+<p align="center">
+  <a href="https://github.com/Hadi2525/social-vantage-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=social-vantage-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
+  </a>
+  <a href="https://github.com/Hadi2525/YOUR-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
+  </a>
+  <a href="https://github.com/Hadi2525/YOUR-REPO-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
+  </a>
+  <a href="https://github.com/Hadi2525/YOUR-REPO-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
+  </a>
 </p>
 
 ---
@@ -209,7 +239,9 @@ open_source: LangChain & Angular contributor
 
 | Degree | Institution | Focus Areas |
 |--------|-------------|-------------|
-| 🎓 **M.Sc. Computer Science** | University of Alberta | Machine Learning and Deep Learning, Algorithms, Privacy in ML, Queuing Theory |
+| 🎓 **M.Sc. Computer Science** | University of Alberta | Machine Learning, Algorithms, Privacy in ML, Queuing Theory |
+| 🎓 **M.Sc. ECE** | University of Alberta | ML, Probability & Statistics, Control Systems |
+| 🎓 **B.Sc. ECE (Cum Laude)** | Shiraz University | Electrical & Computer Engineering |
 
 ---
 
