@@ -155,40 +155,10 @@ open_source: LangChain & Angular contributor
 
 ---
 
-## 🗂️ Language Breakdown
-
-<!-- FIX: replaced broken pie/donut-vertical layouts with stable compact + donut layouts -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="45%" alt="Top Languages Donut" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="45%" alt="Top Languages Compact" />
-</p>
-
----
-
 ## 📉 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi2525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- FIX: repo pin cards only render for public repos — replace YOUR-REPO-N with your actual public repo slugs -->
-<p align="center">
-  <a href="https://github.com/Hadi2525/social-vantage-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=social-vantage-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
-  </a>
-  <a href="https://github.com/Hadi2525/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
-  </a>
-  <a href="https://github.com/Hadi2525/YOUR-REPO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
-  </a>
-  <a href="https://github.com/Hadi2525/YOUR-REPO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
-  </a>
 </p>
 
 ---
