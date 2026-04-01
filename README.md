@@ -52,9 +52,6 @@ open_source: LangChain & Angular contributor
   <img src="https://github-trophies.vercel.app/?username=Hadi2525&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
-<!-- Fallback if above breaks: https://github-profile-trophy.vercel.app/?username=Hadi2525&theme=algolia&no-frame=true&no-bg=true&column=7 -->
-<!-- Additional mirrors: https://github-profile-trophy-liard-delta.vercel.app/?username=Hadi2525&theme=algolia&no-frame=true&no-bg=true&column=7 -->
-
 ---
 
 ## 💼 Impact Highlights
@@ -136,27 +133,21 @@ open_source: LangChain & Angular contributor
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Main Stats + Streak -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hadi2525&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Hadi2525&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="Streak Stats" />
 </p>
 
-<!-- If streak-stats.demolab.com is down, use this fallback: -->
-<!-- <img src="https://github-readme-streak-stats-eight.vercel.app?user=Hadi2525&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" /> -->
-
 ---
 
 ## 📈 Profile Summary Cards
 
-<!-- Row 2: Summary Cards — Commits by Language + Repos by Language -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hadi2525&theme=tokyonight" width="32%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hadi2525&theme=tokyonight" width="32%" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadi2525&theme=tokyonight" width="32%" alt="Stats Summary" />
 </p>
 
-<!-- Row 3: Productive Time + Profile Details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hadi2525&theme=tokyonight&utcOffset=-7" width="49%" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadi2525&theme=tokyonight" width="49%" alt="Profile Details" />
@@ -166,18 +157,11 @@ open_source: LangChain & Angular contributor
 
 ## 🗂️ Language Breakdown
 
+<!-- FIX: replaced broken pie/donut-vertical layouts with stable compact + donut layouts -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="30%" alt="Top Languages Donut" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="38%" alt="Top Languages Compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="28%" alt="Top Languages Pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="45%" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" width="45%" alt="Top Languages Compact" />
 </p>
-
-<!-- Optional: WakaTime Card (uncomment if you use WakaTime) -->
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadi2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="60%" alt="WakaTime Stats" />
-</p>
--->
 
 ---
 
@@ -191,23 +175,39 @@ open_source: LangChain & Angular contributor
 
 ## 🚀 Featured Projects
 
+<!-- FIX: repo pin cards only render for public repos — replace YOUR-REPO-N with your actual public repo slugs -->
 <p align="center">
   <a href="https://github.com/Hadi2525/social-vantage-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=social-vantage-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=social-vantage-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
   </a>
-  <!-- Duplicate and update for your other repos: -->
-  <!--
   <a href="https://github.com/Hadi2525/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
   </a>
   <a href="https://github.com/Hadi2525/YOUR-REPO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
   </a>
   <a href="https://github.com/Hadi2525/YOUR-REPO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hadi2525&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="45%" />
   </a>
-  -->
 </p>
+
+---
+
+## 📺 Full Stack AI Lab — YouTube
+
+<p align="center">
+  <a href="https://www.youtube.com/@FullStackAILab">
+    <img src="https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@FullStackAILab">
+    <img src="https://ytcardgen.vercel.app/api?channel=FullStackAILab&theme=dark" width="60%" alt="Full Stack AI Lab YouTube Channel" />
+  </a>
+</p>
+
+> 🎬 **[Full Stack AI Lab](https://www.youtube.com/@FullStackAILab)** — Production-ready tutorials on LLMs, RAG pipelines, Agentic AI, MLOps, and Cloud Architecture. Built for engineers who ship real AI systems.
 
 ---
 
@@ -239,9 +239,7 @@ open_source: LangChain & Angular contributor
 
 | Degree | Institution | Focus Areas |
 |--------|-------------|-------------|
-| 🎓 **M.Sc. Computer Science** | University of Alberta | Machine Learning, Algorithms, Privacy in ML, Queuing Theory |
-| 🎓 **M.Sc. ECE** | University of Alberta | ML, Probability & Statistics, Control Systems |
-| 🎓 **B.Sc. ECE (Cum Laude)** | Shiraz University | Electrical & Computer Engineering |
+| 🎓 **M.Sc. Computer Science** | University of Alberta | Machine Learning and Deep Learning, Algorithms, Privacy in ML, Queuing Theory |
 
 ---
 
